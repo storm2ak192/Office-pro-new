@@ -20,6 +20,5 @@ dependencyResolutionManagement {
     }
 }
 
-// Kern is a single-module Android app. The module is the root project itself,
-// so source lives directly under src/ (feature-first), matching docs/architecture.md.
-rootProject.name = "Kern"
+// Office Pro Next is a single-module Android app. Source remains feature-first under src/.
+rootProject.name = "Office-Pro-Next"
